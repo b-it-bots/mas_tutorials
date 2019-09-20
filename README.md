@@ -8,6 +8,7 @@ A collection of tutorials for using the functionalities developed by the b-it-bo
 
 * [Architecture](domestic_robotics/architecture.ipynb): Describes the main design principles behind the domestic architecture and its intended usage
 * [Perception](domestic_robotics/perception.ipynb): Describes the perception components used in domestic use cases
+* [Knowledge base](domestic_robotics/knowledge_base.ipynb): Discusses the elements of our domestic knowledge base and its embedding in the architecture
 
 ## Contributing
 
